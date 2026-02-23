@@ -1,5 +1,7 @@
 # MWFU23 - Solar-Powered Rover Robot
 
+[Project Wiki](https://github.com/dinder3685/FUMOW23/wiki)
+
 A solar-powered rover robot controlled by an ESP8266 microcontroller with wireless motor control via WiFi web server.
 
 ## Description
